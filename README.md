@@ -56,7 +56,7 @@
 `Django` `Django REST Framework` `MySQL`
 
 **Frontend:**
-`React` `HTML` `CSS` `Bootstrap`
+`React` `HTML` `CSS` `Bootstrap` `Tailwind CSS`
 
 **Tools & Others:**
 `Git` `GitHub` `VS Code` `Postman`
