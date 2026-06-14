@@ -1,51 +1,7 @@
-## Hi there 👋 I'm Shagor Mukthakim
+## Hi there 👋 I'm Uzzal Ahammed
 
-🚀 **Software Developer | Python & Django Enthusiast | Full-Stack Learner**
+🚀 **Software Developer | Python - Django - React - RestApi  | Full-Stack Developer**
 🎓 Studying **Computing Information and Systems** at **Daffodil International University, Bangladesh**
-
----
-
-### 🔭 What I’m currently working on
-
-* Full-stack web applications using **Django (DRF) + React**
-* An **E-commerce system** and **real-world management systems**
-* Improving **clean code, architecture and scalability**
-
----
-
-### 🌱 What I’m currently learning
-
-* **Advanced Django & Django REST Framework**
-* **React (Vite, Axios, Authentication flows)**
-* **System design & backend best practices**
-* **Data Structures & Algorithms (Python-focused)**
-
----
-
-### 👯 I’m looking to collaborate on
-
-* Django / DRF backend projects
-* React frontend projects
-* Full-stack applications with real-world use cases
-
----
-
-### 🤔 I’m looking for help with
-
-* Writing **production-level backend code**
-* **System design thinking**
-* Open-source contribution best practices
-
----
-
-### 💬 Ask me about
-
-* Python & OOP concepts
-* Django & REST APIs
-* React basics to intermediate
-* Learning programming step-by-step as a beginner
-
----
 
 ### 🛠️ Tech Stack
 
