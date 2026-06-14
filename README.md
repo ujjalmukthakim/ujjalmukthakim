@@ -17,17 +17,3 @@
 **Tools & Others:**
 `Git` `GitHub` `VS Code` `Postman`
 
----
-
-### 📫 How to reach me
-
-* 💼 GitHub: **@ujjalmukthakim**
-* 🌐 LinkedIn: *https://www.linkedin.com/in/shagor-mukthakim-880847316/*
-* 📧 Email: *shagormukthakim2143@gmail.com*
-
----
-
-### ⚡ Fun fact
-
-I love **Python**, enjoy breaking complex problems into simple steps
-and I’m building my skills every day to become a **professional software engineer** 🚀
